@@ -42,8 +42,9 @@ public class E20 {
             } else {
                 stack.push(s1);
             }
-            
 
+
+            System.out.println("stack = " + stack);
 
         }
 
